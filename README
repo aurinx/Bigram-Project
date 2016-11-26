@@ -1,11 +1,7 @@
-Aurin Chakravarty
-achakr16@jhu.edu
-600.120
-Professor More
 
 Hi,
 
-This assignment overall was not bad, but the debugging and testing was often very confusing or frustrating. In the end, my Makefile compiles my a7a and a7b fine, but does not recognize when test_a7a and test_a7b are to be compiled, so I did not include them in the Makefile. When I try to compile the test files separately, they come back with a "unspecified reference" error that I could not debug.
+This project overall was not bad, but the debugging and testing was often very confusing or frustrating. In the end, my Makefile compiles my a7a and a7b fine, but does not recognize when test_a7a and test_a7b are to be compiled, so I did not include them in the Makefile. When I try to compile the test files separately, they come back with a "unspecified reference" error that I could not debug.
 
 To run my program, here are some steps.
 
