@@ -1,0 +1,12 @@
+<START> I 1
+and I 1
+eat cheese 1
+eat food 1
+food <END> 1
+food and 1
+smell cheese 1
+smell food 1
+I eat 2
+I smell 2
+cheese when 2
+when I 2

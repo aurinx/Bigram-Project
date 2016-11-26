@@ -1,0 +1,10 @@
+<START> they 1
+ate what 1
+ate with 1
+friends <END> 1
+saw when 1
+they saw 1
+what they 1
+when they 1
+with friends 1
+they ate 2

@@ -1,0 +1,21 @@
+#Makefile for A7
+
+a7a: a7a.cpp a7a.h
+	g++ -Wall -Wextra -pedantic -std=c++11 -g a7a.cpp -o a7a
+
+a7b: a7b.cpp a7b.h
+	g++ -Wall -Wextra -pedantic -std=c++11 -g a7b.cpp -o a7b
+
+test_a7a: test_a7a.cpp a7a.h
+	g++ -Wall -Wextra -pedantic -std=c++11 -g test_a7a.cpp -o test_a7a
+
+test_a7b: test_a7b.cpp a7a.cpp
+	g++ -Wall -Wextra -pedantic -std=c++11 -g test_a7b.cpp -o test_a7b
+
+
+
+clean:
+	rm -f a7a.o a7a
+	rm -f a7b.o a7b
+	rm -f test_a7a.o test_a7a
+	rm -f test_a7b.o test_a7b

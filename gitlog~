@@ -1,0 +1,83 @@
+commit 5ce9b42b127ef78bdcf65fc6b260c33b9a75fe78
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Mon Nov 7 19:53:07 2016 -0500
+
+    adding a7a
+
+commit 8658672986354d373ffaa27d2669d9291ff70522
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Mon Oct 3 20:13:32 2016 -0400
+
+    progress on main function
+
+commit 337b42ac30b2d18c965bace0a7888d61a03cbc95
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Mon Oct 3 19:18:13 2016 -0400
+
+    have all base files
+
+commit 22c3b07351ef8d1e7357f4ee77fbc73fe3d6d47b
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Mon Oct 3 16:35:01 2016 -0400
+
+    base workflow
+
+commit 68069e2ae8ff3a9859c0afbc06a12e4f44b7d1cf
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Wed Sep 14 17:35:24 2016 -0400
+
+    all parts
+
+commit 584af9259f856a70b73b7d24b0a85cf7b577685d
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Wed Sep 14 13:14:53 2016 -0400
+
+    added part4
+
+commit 9f506cccf46367525246ecc9d2d1505d13aa105d
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Wed Sep 14 13:00:40 2016 -0400
+
+    added part3.c
+
+commit 7f5f40e6627e4d2c493c80e6ee7c0825cac8783a
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Wed Sep 14 12:57:38 2016 -0400
+
+    added part 2
+
+commit 6214100a78db86bcac90c44c5d9a5308e4eaa3d1
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Wed Sep 14 12:53:12 2016 -0400
+
+    added part1.c
+
+commit edd64ed510bd052c511ffd68ab45f9941b409bd3
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Sat Sep 10 17:15:18 2016 -0400
+
+    Tests are working
+
+commit 096f24db27221856a174d8cef167ae0615469e4b
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Sat Sep 10 15:41:21 2016 -0400
+
+    Added gitignore
+
+commit 7f97d596ed89141df8d80e180e714bae8994894a
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Sat Sep 10 15:36:36 2016 -0400
+
+    Adding scaffolding
+
+commit fdb30b42e292e8d9f0ad28ab566f5e4c4ca372b0
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Fri Sep 9 13:06:27 2016 -0400
+
+    Updated README
+
+commit faede365177bfb531c4ba8b1130ba544f48fb7e4
+Author: Aurin Chakravarty <aurin@jhu.edu>
+Date:   Fri Sep 9 13:03:36 2016 -0400
+
+    Created README
