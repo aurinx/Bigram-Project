@@ -1,8 +1,5 @@
 /*
  Aurin Chakravarty
-600.120
-Assignment 7
-achakr16
  */
 #include <iostream>
 #include <map>
