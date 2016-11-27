@@ -1,8 +1,5 @@
 /*                                                                                                             
-Aurin Chakravarty                                                                                              
-600.120                                                                                                        
-Assignment 7                                                                                                   
-achakr16                                                                                                       
+Aurin Chakravarty                                                                                                                                                                                                  
 Last Modified: Nov 7 2016                                                                                      
 */
 #ifndef a7a_h
